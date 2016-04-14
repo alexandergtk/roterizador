@@ -9,15 +9,14 @@ Fontes:
   http://www.inf.ufsc.br/grafos/temas/custo-minimo/dijkstra.html
   http://www.ime.usp.br/~pf/algoritmos_para_grafos/aulas/dijkstra.html
 
-+ Execução do projeto
-    Instalar -> Mysql
-Criar inicialmente: 
- Base de dados roteriza 
- Usuário: root
- Senha:   root
++ Execução do projeto:
++   Instalar Mysql
++ Criar inicialmente: 
++   Base de dados: roteriza 
++   Usuário: root
++   Senha:   root
 
 Após feito os procedimento acima, basta rodar Application.java, a criação das tabelas e relações será criada automaticamente.
 
-Api
 URL: /rotas
 Métodos: POST,GET e PUT
