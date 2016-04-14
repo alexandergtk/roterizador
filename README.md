@@ -20,4 +20,4 @@ Após feito os procedimento acima, basta rodar Application.java, a criação das
 
 Api
 URL: /rotas
-Método POST,GET,PUT
+Métodos: POST,GET e PUT
