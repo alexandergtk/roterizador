@@ -1,4 +1,4 @@
-# roterizador
+# roteriza
 
 
 + Tenologia (Spring, Lombok, JPA, Hibernate, Mysql)
